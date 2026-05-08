@@ -40,17 +40,23 @@ promo
 musim belanja
 peningkatan permintaan pasar
 🔥 Korelasi Antar Variabel
+<img width="1504" height="853" alt="image" src="https://github.com/user-attachments/assets/9002c4b2-5a82-4de7-8a20-7f172b3c1f34" />
+
 
 Heatmap korelasi menunjukkan hubungan antar variabel:
 Variabel	Korelasi
 Total_Sales vs Quantity	0.64 (cukup kuat)
 Total_Sales vs Ad_Budget	0.055 (sangat lemah)
 Ad_Budget vs Quantity	0.12 (lemah)
+<img width="964" height="823" alt="image" src="https://github.com/user-attachments/assets/1b327c71-7d83-4fb4-8a45-aa68b9b955c2" />
+
 
 Insight:
 Jumlah produk yang terjual memiliki pengaruh yang lebih besar terhadap total penjualan dibandingkan anggaran iklan.
 
 💰 Produk Underperformer
+<img width="1204" height="852" alt="image" src="https://github.com/user-attachments/assets/9e529260-bac7-4584-a057-41a66d001531" />
+
 Scatter plot menunjukkan beberapa produk dengan:
 Price_Per_Unit tinggi
 Quantity rendah
@@ -58,6 +64,8 @@ Quantity rendah
 Produk tersebut dapat dikategorikan sebagai produk underperformer, karena memiliki nilai produk tinggi tetapi jarang terjual.
 
 🛍 Efisiensi Kategori Produk
+<img width="1204" height="853" alt="image" src="https://github.com/user-attachments/assets/4e89bcf4-3a39-4581-a5b0-041c16e5ca9d" />
+
 
 Analisis efisiensi kategori menunjukkan:
 
